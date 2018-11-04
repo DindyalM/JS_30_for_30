@@ -1,13 +1,12 @@
 html {
   font-size: 10px;
-  background: url(http://i.imgur.com/b9r5sEL.jpg) bottom center;
+  background: url(https://bit.ly/2D00CRw) bottom center;
   background-size: cover;
 }
 
 body,html {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
 }
 
 .keys {
@@ -26,8 +25,9 @@ body,html {
   padding: 1rem .5rem;
   transition: all .07s ease;
   width: 10rem;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   text-align: center;
-  color: white;
+  color: rgb(174, 235, 33);
   background: rgba(0,0,0,0.4);
   text-shadow: 0 0 .5rem black;
 }
@@ -45,6 +45,7 @@ kbd {
 
 .sound {
   font-size: 1.2rem;
+  font-family:Helvetica;
   text-transform: uppercase;
   letter-spacing: .1rem;
   color: #ffc600;
